@@ -1,5 +1,5 @@
 # Azure-Speech-Recognition-And-LUIS
-Combined with two azure service,speech recognition and LUIS.
+Combined speech recognition with LUIS.
 
 ## Environment
 
